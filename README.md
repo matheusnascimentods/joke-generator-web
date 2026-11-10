@@ -176,7 +176,6 @@ A API é pública e não exige chave. Documentação: [icanhazdadjoke.com/api](h
   - Falhas na requisição só aparecem no console; a interface não mostra mensagem de erro.
   - O tema escolhido não é salvo e volta para Napoli ao recarregar a página.
   - O Bootstrap usado é uma versão alpha (`5.3.0-alpha3`).
-  - O link "Go to the repository" no `index.html` ainda aponta para o nome antigo do repositório (`JokeGenerator`).
 
 ---
 
